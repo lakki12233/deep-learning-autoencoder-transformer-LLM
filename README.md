@@ -5,10 +5,10 @@ This repository contains the complete implementation of Assignment 2 for the cou
 
 ---
 
-## 📁 Contents
+##  Contents
 
 ### Part I: Theoretical Analysis
-- 📄 `a2_part_1_dshrisai_sumanman.pdf`  
+-  `a2_part_1_dshrisai_sumanman.pdf`  
   Includes:
   - Trainable parameter count in Autoencoders
   - L2 regularization backprop derivation
@@ -18,7 +18,7 @@ This repository contains the complete implementation of Assignment 2 for the cou
 ---
 
 ### Part II: Autoencoders for Anomaly Detection
-- 📓 `a2_part_2_dshrisai_sumanman.ipynb`  
+-  `a2_part_2_dshrisai_sumanman.ipynb`  
   - Dataset: NAB (Numenta Anomaly Benchmark)
   - Models: Dense, LSTM, and Conv1D Autoencoders
   - Evaluation: Achieved >80% accuracy
@@ -29,7 +29,7 @@ This repository contains the complete implementation of Assignment 2 for the cou
 ---
 
 ### Part III: Transformer from Scratch (PyTorch)
-- 📓 `a2_part_3_dshrisai_sumanman.ipynb`  
+-  `a2_part_3_dshrisai_sumanman.ipynb`  
   - Complete PyTorch implementation of Transformer encoder
   - Dataset analysis, tokenization, embeddings, multi-head self-attention
   - Evaluation with accuracy/loss plots
@@ -38,7 +38,7 @@ This repository contains the complete implementation of Assignment 2 for the cou
 ---
 
 ### Part IV: LLM Summarization with BART
-- 📓 `a2_part_4_sumanman_dshrisai.ipynb`  
+-  `a2_part_4_sumanman_dshrisai.ipynb`  
   - Model: `facebook/bart-base` from HuggingFace
   - Dataset: BillSum or Multi-News
   - Evaluation: ROUGE, BLEU, BERTScore
@@ -46,29 +46,28 @@ This repository contains the complete implementation of Assignment 2 for the cou
 
 ---
 
-### 🎁 Bonus: ViT and LLM Probing
-- 📓 `a2_bonus_vit_dshrisai_sumanman.ipynb`  
+###  Bonus: ViT and LLM Probing
+-  `a2_bonus_vit_dshrisai_sumanman.ipynb`  
   - Vision Transformer applied to Cats vs Dogs Dataset
   - Includes model training and evaluation
   - Deployment video included in UBBox
 
-- 📓 `a2_bonus_classification_dshrisai_sumanman.ipynb`  
+-  `a2_bonus_classification_dshrisai_sumanman.ipynb`  
   - DistilBERT and TinyBERT used for spam classification
   - Achieved accuracy and F1 > 85%
   - Frozen base model + classifier head
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 - Python, PyTorch
 - HuggingFace Transformers
 - Scikit-learn, matplotlib, seaborn
 - Torchinfo for model summaries
-- TensorBoard / WandB (optional)
 
 ---
 
-## 📦 File Overview
+##  File Overview
 
 | File Name | Description |
 |-----------|-------------|
@@ -84,7 +83,7 @@ This repository contains the complete implementation of Assignment 2 for the cou
 
 ## 👩‍💻 Authors
 - **Suman Mandava**
-- **Sai D Shrivatsav**
+- **Dharanee**
 
 ---
 
